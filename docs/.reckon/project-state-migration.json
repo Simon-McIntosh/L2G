@@ -1,0 +1,22 @@
+{
+  "format": "distributed",
+  "status": "complete",
+  "project": "L2G",
+  "resources": [
+    {
+      "type": "project",
+      "id": "project",
+      "path": "state/L2G/project.json",
+      "sha256": "fd85a78c39016765717858fcd19dbba4ed312a819d312efaf53ce7858759eadc",
+      "version": 0
+    },
+    {
+      "type": "timeline",
+      "id": "timeline",
+      "path": "state/L2G/timeline.html",
+      "sha256": "f46a3bfd9082964651ae8ec24539be28646cf0fbcc19fa71c68d6b4a0c7642a3",
+      "version": 0
+    }
+  ],
+  "completed_at": "2026-08-24T12:20:24+00:00"
+}
